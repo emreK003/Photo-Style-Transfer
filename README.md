@@ -1,4 +1,4 @@
-# Deep Photo Style Transfer — Mimari Değişiklikli Sürüm
+# Deep Photo Style Transfer 
 
 Luan et al. (CVPR 2017\) "Deep Photo Style Transfer" makalesinin mimari değişiklikler içeren bir yeniden uygulamasıdır. Orijinal makaledeki VGG-19 \+ Gram matrisi \+ DilatedNet üçlüsü yerine modern alternatifler (EfficientNet-B4, AdaIN, SegFormer-B2) kullanılır.
 
